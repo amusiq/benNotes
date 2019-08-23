@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./assets/heroImage.jpg
+heroImage: /img/heroImage.jpg
 actionText: Go Get'em
 actionLink: /guide/
 features:
