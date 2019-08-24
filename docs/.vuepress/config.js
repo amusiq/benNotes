@@ -11,6 +11,6 @@ module.exports = {
       { text: 'profile', link: '/profile/' },
       { text: 'GitHub', link: 'https://github.com/amusiq/benNotes' },
     ],
-    sidebar: ['/', '/page-a', ['/page-b', 'Explicit link text']],
+    // sidebar: ['/', '/page-a', ['/page-b', 'Explicit link text']],
   },
 };
