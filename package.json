@@ -1,12 +1,29 @@
 {
   "name": "ben-notes",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "note taking",
   "license": "MIT",
   "author": "ben",
   "scripts": {
     "docs:build": "vuepress build docs",
     "build": "vuepress build ./docs",
     "dev": "vuepress dev ./docs"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amusiq/benNotes.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/amusiq/benNotes/issues"
+  },
+  "homepage": "https://github.com/amusiq/benNotes#readme"
 }
