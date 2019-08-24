@@ -5,6 +5,7 @@
   "license": "MIT",
   "author": "ben",
   "scripts": {
+    "docs:build": "vuepress build docs",
     "build": "vuepress build ./docs",
     "dev": "vuepress dev ./docs"
   }
