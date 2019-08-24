@@ -2,9 +2,9 @@ module.exports = {
   base: '',
   title: "Ben's Notes",
   description: '前端大龙凤',
-  head: [['link', { rel: 'icon', href: `/logo.png` }]],
+  head: [['link', { rel: 'icon', href: `/img/logo.png` }]],
   port: '1217',
-  dest: 'docs/.vuepress/dist',
+  dest: './dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
