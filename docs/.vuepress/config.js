@@ -4,7 +4,7 @@ module.exports = {
   description: '前端大龙凤',
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
   port: '1217',
-  dest: '.vuepress/dist',
+  dest: 'docs/.vuepress/dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
