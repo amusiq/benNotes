@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',
+  base: '',
   title: "Ben's Notes",
   description: '前端大龙凤',
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
