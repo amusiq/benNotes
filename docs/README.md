@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/heroImage.jpg
 actionText: Go Get'em
-actionLink: /guide/
+actionLink: /intro/fe-knowledge.md
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
