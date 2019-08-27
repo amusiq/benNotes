@@ -21,8 +21,8 @@ const articleSidebar = Object.entries(cateArrange)
 // * -------------------------------- config
 
 module.exports = {
-  base: '/benNotes/',
   title: "Ben's Notes",
+  base: '/benNotes/dist/',
   description: '前端大龙凤',
   head: [['link', { rel: 'icon', href: '/img/logo.png' }]],
   port: '1217',
