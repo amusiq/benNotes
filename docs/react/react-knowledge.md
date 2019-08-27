@@ -52,3 +52,23 @@ const [state, setState] = useState(initialState);
 返回值：返回的是一个数组，一个是当前 state 的值，另一个是更新 state 的方法，这里面 setState 方法与 class 中的 setState 不同在于，此 setState 不会合并 state 中的值
 
 如果需要定义多个 state 只需要多次调用 useState 方法就行。
+
+注意：useState 只可以用在函数组件里。如果写在 Class 里会报错。
+
+### Effect hook
+
+::: tip
+useEffect 方法是在每次渲染之后执行，可以理解为 class 写法中的 componentDidMount / componentDidUpdate（为了方便理解可以这么理解，但不完全一样）
+:::
+
+使用方法：
+
+```jsx
+useEffect(didUpdate);
+```
+
+参数：function，在每次渲染之后执行，在函数里可以编写更新 dom ，添加订阅等。
+
+参数返回值： function(可以不返回) 如果 didUpdate 函数中返回了一个函数，这个函数会在组件卸载前执行(每次渲染都会执行)需要清除上次订阅的内容可以再这里面写。
+
+执行条件： useEffect 的第二个参数是一个数组，只有当数组中的的值发生改变的时候才会调用 effect，如果执行在第一次挂载和卸载的时候调用，只需要传一个[]空数组
