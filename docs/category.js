@@ -7,4 +7,5 @@ module.exports = {
     //
     './react/react-knowledge.md',
   ],
+  Taro: [],
 };
