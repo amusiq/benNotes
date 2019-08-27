@@ -10,4 +10,4 @@ git add -A
 git commit -m 'deploy'
 
 # 推到你仓库的 master 分支
-git push -f git@github.com:amusiq/benNotes.github.io.git master:gh-pages
+git push -f git@github.com:amusiq/benNotes.git master:gh-pages
