@@ -7,5 +7,9 @@ module.exports = {
     //
     './react/react-knowledge.md',
   ],
+  Git: [
+    //
+    './git/git-branch.md',
+  ],
   Taro: [],
 };
