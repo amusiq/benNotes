@@ -42,10 +42,16 @@
 
 ## 工具类文档
 
-1. [Lodash 中文文档](https://www.html.cn/doc/lodash/#_padendstring-length0-chars)
-2. [Moment.js 中文文档](http://momentjs.cn/)
-3. [dayjs 中文文档(Moment 精简版)](https://github.com/iamkun/dayjs)
-4. [useHttp](https://github.com/alex-cory/use-http)
+1. [Node.js](https://nodejs.org/api/documentation.html)
+2. [querystring](https://nodejs.org/api/querystring.html)
+3. [path](https://nodejs.org/docs/latest/api/path.html)
+4. [url](https://github.com/defunctzombie/node-url)
+5. [fs-extra](https://github.com/jprichardson/node-fs-extra)
+6. [underscore.string](https://www.html.cn/doc/underscore.string/)
+7. [Lodash 中文文档](https://www.html.cn/doc/lodash/#_padendstring-length0-chars)
+8. [Moment.js 中文文档](http://momentjs.cn/)
+9. [dayjs 中文文档(Moment 精简版)](https://github.com/iamkun/dayjs)
+10. [useHttp](https://github.com/alex-cory/use-http)
 
 ## 单元测试类文档
 
