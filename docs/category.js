@@ -1,5 +1,5 @@
 module.exports = {
-  前端知识: [
+  'Fore-end': [
     //
     './intro/fe-knowledge.md',
   ],
@@ -11,5 +11,16 @@ module.exports = {
     //
     './git/git-branch.md',
   ],
-  Taro: [],
+  Tool: [
+    //
+    './tool/tool.md',
+  ],
+  Resource: [
+    //
+    './resource/resource.md',
+  ],
+  Document: [
+    //
+    './document/document.md',
+  ],
 };
