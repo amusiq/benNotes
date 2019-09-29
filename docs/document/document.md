@@ -6,6 +6,10 @@
 
 1. [微信开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
+## 语言类文档
+
+1. [ECMAScript 6 入门 阮一峰](http://es6.ruanyifeng.com/#docs/class)
+
 ## 框架类文档
 
 1. [React](https://react.docschina.org/)
@@ -19,12 +23,17 @@
 2. [Mobx](https://cn.mobx.js.org/)
 3. [Redux](https://www.redux.org.cn/)
 
+## CSS 扩展语言文档
+
+1. [Sass](https://www.sass.hk/)
+2. [Less](http://lesscss.cn/)
+
 ## UI 类文档
 
 ### PC 端
 
-2. [Zan UI](https://youzan.github.io/zent/zh/guides/install)
-3. [Ant Design](https://ant.design/components/menu-cn/)
+1. [Zan UI](https://youzan.github.io/zent/zh/guides/install)
+2. [Ant Design](https://ant.design/components/menu-cn/)
 
 ### 手机端
 
@@ -52,6 +61,7 @@
 8. [Moment.js 中文文档](http://momentjs.cn/)
 9. [dayjs 中文文档(Moment 精简版)](https://github.com/iamkun/dayjs)
 10. [useHttp](https://github.com/alex-cory/use-http)
+11. [decimal.js 浮点数处理](http://mikemcl.github.io/decimal.js/#)
 
 ## 单元测试类文档
 

@@ -23,4 +23,8 @@ module.exports = {
     //
     './document/document.md',
   ],
+  Project: [
+    //
+    './project/propject-wifi.md',
+  ],
 };
