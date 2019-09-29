@@ -11,3 +11,7 @@
 ## 文件工具
 
 1. [Smallpdf 格式转换](https://smallpdf.com)
+
+## Chorme 浏览器插件
+
+1. [浏览器插件](http://chromecj.com/)
