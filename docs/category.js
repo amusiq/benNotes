@@ -15,6 +15,10 @@ module.exports = {
     //
     './tool/tool.md',
   ],
+  Article: [
+    //
+    './article/article.md',
+  ],
   Resource: [
     //
     './resource/resource.md',
