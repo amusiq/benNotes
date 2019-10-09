@@ -23,10 +23,12 @@
 2. [Mobx](https://cn.mobx.js.org/)
 3. [Redux](https://www.redux.org.cn/)
 
-## CSS 扩展语言文档
+## CSS 类文档
 
 1. [Sass](https://www.sass.hk/)
 2. [Less](http://lesscss.cn/)
+3. [解决 css 全局污染-BEM 规范](https://www.jianshu.com/p/54b000099217)
+4. [解决 css 全局污染-css module](https://segmentfault.com/a/1190000014722978)
 
 ## UI 类文档
 
@@ -62,6 +64,7 @@
 9. [dayjs 中文文档(Moment 精简版)](https://github.com/iamkun/dayjs)
 10. [useHttp](https://github.com/alex-cory/use-http)
 11. [decimal.js 浮点数处理](http://mikemcl.github.io/decimal.js/#)
+12. [react-rnd react 拖动区域实现](https://github.com/bokuweb/react-rnd)
 
 ## 单元测试类文档
 
